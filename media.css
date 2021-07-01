@@ -1,0 +1,19 @@
+@media (max-width: 1000px) {
+  .newCollections{
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 100%;
+  }
+  .oldCollections{
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 100%;
+  }
+  .serchMoreBlock{
+    order:-1;
+  }
+  .oldCollectionVisual{
+    order:1;
+    height: 100%;
+  }
+}

@@ -254,6 +254,7 @@ hr:not(.logoInner hr){
   box-sizing: border-box;
   border:1px solid #fff;
   padding: 12px 28px;
+  text-align: center;
 }
 .serchMoreLink a{
   text-transform: uppercase;

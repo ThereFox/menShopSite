@@ -141,7 +141,7 @@ p{
 
   background-size: 100vw 100vh;
   background-repeat: no-repeat;
-  background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(/img/background-first.jpg);
+  background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(img/background-first.jpg);
   background-size: cover;
   ba
 }

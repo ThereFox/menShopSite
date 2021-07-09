@@ -9,7 +9,7 @@ body{
   font-size: calc(10px + 6 * (100vw / 1920));
 }
 html::-webkit-scrollbar,
-html::-webkit-scrollbar-track-piece{
+html::-webkit-scrollbar-track{
   width: 0;
 }
 @font-face {

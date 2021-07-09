@@ -8,13 +8,13 @@ body{
   background-color: #000;
   font-size: calc(10px + 6 * (100vw / 1920));
 }
-::-webkit-scrollbar,
-::-webkit-scrollbar-button,
-::-webkit-scrollbar-track,
-::-webkit-scrollbar-track-piece,
-::-webkit-scrollbar-thumb,
-::-webkit-scrollbar-corner,
-::-webkit-resizer{
+html::-webkit-scrollbar,
+html::-webkit-scrollbar-button,
+html::-webkit-scrollbar-track,
+html::-webkit-scrollbar-track-piece,
+html::-webkit-scrollbar-thumb,
+html::-webkit-scrollbar-corner,
+html::-webkit-resizer{
   width: 0;
 }
 @font-face {

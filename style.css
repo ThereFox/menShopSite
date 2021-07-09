@@ -8,7 +8,8 @@ body{
   background-color: #000;
   font-size: calc(10px + 6 * (100vw / 1920));
 }
-html::-webkit-scrollbar {
+html::-webkit-scrollbar,
+html::-webkit-scrollbar-track-piece{
   width: 0;
 }
 @font-face {
